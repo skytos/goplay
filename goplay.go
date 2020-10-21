@@ -6,7 +6,3 @@ import "fmt"
 func Play() {
 	fmt.Println("Play!")
 }
-
-func main() {
-	Play()
-}
